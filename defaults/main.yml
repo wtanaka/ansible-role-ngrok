@@ -1,0 +1,12 @@
+---
+#install_dir: "/opt/ngrok"
+#local_package_location: "/tmp/android_studio_download.zip"
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-darwin-amd64.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-freebsd-amd64.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-darwin-386.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-386.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip 
+#https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-freebsd-386.zip 
