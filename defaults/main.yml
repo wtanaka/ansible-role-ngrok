@@ -1,4 +1,5 @@
 ---
+ngrok_should_shortcircuit: True
 #install_dir: "/opt/ngrok"
 #local_package_location: "/tmp/android_studio_download.zip"
 #https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-darwin-amd64.zip 
